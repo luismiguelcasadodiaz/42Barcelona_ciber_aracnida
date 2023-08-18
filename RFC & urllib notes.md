@@ -21,7 +21,7 @@ The ASCII text RFCs (e.g., at the RFC Editor site) don't tell you what documents
 
 [Errata search](https://www.rfc-editor.org/errata_search.php)
 
-[Check differences](htps://author-tools.ietf.org/iddiff)
+[Check differences](https://author-tools.ietf.org/iddiff)
 
 # Understanding context
 It is necessary to read not only the directly relevant text but also (at a minimum) anything that it references, whether that is in the same spec or a different one. In a pinch, reading any potentially related sections will help immensely, if you can not read the whole document.
